@@ -1,7 +1,7 @@
 {
-  "name": "${name}",
+  "name": "some-project",
   "version": "0.0.1",
-  "description": "${description}",
+  "description": "",
   "type": "module",
   "files": [
     "dist/"
