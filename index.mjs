@@ -1,13 +1,20 @@
-#!/usr/bin/env zx
-
 import { cpSync, readFileSync, writeFileSync } from 'node:fs'
-import { echo, question } from 'zx'
+import prompts from 'prompts'
 
-const name = await question('Name of your project: ')
+const questions = [
+  {
+    type: 'text',
+    name: 'name',
+    message: 'The name of your project',
+  },
+  {
+    type: 'text',
+    name: 'description',
+    message: 'The description of your project',
+  },
+]
 
-await echo(`name: ${name}`)
-
-const description = await question('Description of your project: ')
+const { name, description } = await prompts(questions)
 
 const packageInfo = JSON.parse(readFileSync('./templates/package.json', 'utf-8'))
 
@@ -18,4 +25,4 @@ cpSync('./templates', name, {
   recursive: true,
 })
 
-writeFileSync(`./${name}/package.json`, JSON.stringify(packageInfo))
+writeFileSync(`./${name}/package.json`, JSON.stringify(packageInfo, null, 2))
