@@ -12,9 +12,11 @@ Would keep these packages as new as possible
 
 ## Usage
 
+* Run
 ```sh
-pnpm create @
+pnpm create @blackz/create
 ```
+* Answer questions about your project name and description
 
 ## LICENSE
 
