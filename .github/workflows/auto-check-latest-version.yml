@@ -24,7 +24,7 @@ jobs:
         with: 
           version: 8.12.1
       - name: Run taze
-        run: npx taze -r -w latest
+        run: npx --yes taze -r -w latest
       - name: Install packages
         run: pnpm i
       - name: Git push
