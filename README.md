@@ -16,7 +16,7 @@ My template to quick start projects based on these packages:
 
 * Run
 ```sh
-pnpm create @blackz/create
+pnpm create @blackz@latest
 ```
 * Answer questions about your project name and description
 
