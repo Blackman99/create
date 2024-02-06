@@ -1,0 +1,35 @@
+name: Auto check all latest packages
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+concurrency: ${{ github.workflow }}-${{ github.ref }}
+
+jobs:
+  release:
+    name: Run release checking
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20.10.0"
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.4.0
+        with: 
+          version: 8.12.1
+      - name: Run taze
+        run: npx taze -r -w latest
+      - name: Install packages
+        run: pnpm i
+      - name: Git push
+        run: 
+          git config --global user.name "Dongsheng Zhao"
+          git config --global user.email "1197160272@qq.com"
+          git commit -a -m "chore:update deps"
+          git push

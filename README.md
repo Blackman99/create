@@ -8,7 +8,9 @@ My template to quick start projects based on these packages:
 * [Pnpm](https://pnpm.io/)
 * [Unbuild](https://github.com/unjs/unbuild)
 
-Would keep these packages as new as possible
+> [!NOTE]
+> All the packages would be auto update to the latest version
+> It is better to always use the latest Node version
 
 ## Usage
 
