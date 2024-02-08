@@ -28,7 +28,7 @@ jobs:
       - name: Install packages
         run: pnpm i
       - name: Git push
-        run: 
+        run: |
           git config --global user.name "Dongsheng Zhao"
           git config --global user.email "1197160272@qq.com"
           git commit -a -m "chore:update deps"
