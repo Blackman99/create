@@ -26,7 +26,7 @@ jobs:
       - name: Run taze
         run: npx --yes taze -r -w latest
       - name: Install packages
-        run: pnpm i
+        run: pnpm i --no-frozen-lockfile
       - name: Git push
         run: |
           git config --global user.name "Dongsheng Zhao"
