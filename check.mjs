@@ -25,8 +25,9 @@ const reinstallPackageAndCreateGitCommit = async () => {
 const gitStatusLines = (await $`git status`).toString().split('\n')
 
 if (
-  gitStatusLines.some(line => line.startsWith('Untracked files:')) 
-    || gitStatusLines.some(line => line.includes('modified:   package.json'))
+  gitStatusLines.some(line => line.startsWith('Untracked files:') 
+    || line.startsWith('Changes not staged for commit:' 
+    || line.startsWith('Changes to be committed:')))
 ) {
   await createChangeset()
   await reinstallPackageAndCreateGitCommit()
