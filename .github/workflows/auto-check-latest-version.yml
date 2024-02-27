@@ -28,8 +28,4 @@ jobs:
       - name: Install packages
         run: pnpm i --no-frozen-lockfile
       - name: Git push
-        run: |
-          git config --global user.name "Dongsheng Zhao"
-          git config --global user.email "1197160272@qq.com"
-          git commit -a -m "chore:update deps"
-          git push
+        run: node check.mjs
