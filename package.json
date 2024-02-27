@@ -1,6 +1,6 @@
 {
   "name": "@blackz/create",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A template to quick start projects",
   "type": "module",
   "bin": "index.mjs",
