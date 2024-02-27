@@ -1,5 +1,11 @@
 # @blackz/create
 
+## 0.0.6
+
+### Patch Changes
+
+- [`77b5bcd`](https://github.com/Blackman99/create/commit/77b5bcdcb0c15c7bcdf7010d97fff4f1ffb5a504) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
 ## 0.0.5
 
 ### Patch Changes
