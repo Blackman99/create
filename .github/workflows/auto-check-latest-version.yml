@@ -27,5 +27,5 @@ jobs:
         run: npx --yes taze -r -w latest
       - name: Install packages
         run: pnpm i --no-frozen-lockfile
-      - name: Git push
+      - name: Check changes then create changesets and sync repo
         run: node check.mjs
