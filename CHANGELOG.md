@@ -1,5 +1,11 @@
 # @blackz/create
 
+## 0.0.8
+
+### Patch Changes
+
+- [`c4a5530`](https://github.com/Blackman99/create/commit/c4a5530c1d7ae4235a87abc9662370b2cfcd6a1f) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update workflow
+
 ## 0.0.7
 
 ### Patch Changes
