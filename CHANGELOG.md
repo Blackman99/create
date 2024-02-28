@@ -1,5 +1,13 @@
 # @blackz/create
 
+## 0.0.7
+
+### Patch Changes
+
+- [`e964b4d`](https://github.com/Blackman99/create/commit/e964b4d2b81b72d9018bd44be9fa330f2ad6da78) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update node types
+
+- [`7d95ec6`](https://github.com/Blackman99/create/commit/7d95ec68bfaec25ad080064267781e9e015f2a79) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
 ## 0.0.6
 
 ### Patch Changes
