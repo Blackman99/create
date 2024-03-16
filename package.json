@@ -19,10 +19,10 @@
   "author": "Dongsheng Zhao",
   "license": "MIT",
   "devDependencies": {
-    "@antfu/eslint-config": "^2.8.2",
+    "@antfu/eslint-config": "^2.8.3",
     "@changesets/changelog-github": "^0.5.0",
     "@changesets/cli": "^2.27.1",
-    "@types/node": "^20.11.27",
+    "@types/node": "^20.11.28",
     "eslint": "^8.57.0"
   },
   "dependencies": {
