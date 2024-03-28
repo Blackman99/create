@@ -1,5 +1,11 @@
 # @blackz/create
 
+## 0.0.14
+
+### Patch Changes
+
+- [`db174f4`](https://github.com/Blackman99/create/commit/db174f4c2421dcec565a4672f5bdea9f7afb9423) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
 ## 0.0.13
 
 ### Patch Changes
