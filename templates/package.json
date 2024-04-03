@@ -21,7 +21,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@antfu/eslint-config": "^2.11.6",
+    "@antfu/eslint-config": "^2.12.1",
     "eslint": "^8.57.0",
     "typescript": "^5.4.3",
     "unbuild": "^2.0.0",
