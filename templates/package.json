@@ -22,7 +22,7 @@
   "license": "MIT",
   "devDependencies": {
     "@antfu/eslint-config": "^2.19.1",
-    "eslint": "^9.3.0",
+    "eslint": "^9.4.0",
     "typescript": "^5.4.5",
     "unbuild": "^2.0.0",
     "vite": "^5.2.12",
