@@ -1,8 +1,18 @@
 {
   "name": "some-project",
+  "type": "module",
   "version": "0.0.1",
   "description": "",
-  "type": "module",
+  "author": "",
+  "license": "MIT",
+  "keywords": [],
+  "exports": {
+    ".": {
+      "types": "./dist/esm/index.d.ts",
+      "import": "./dist/esm/index.js",
+      "require": "./dist/cjs/index.js"
+    }
+  },
   "files": [
     "dist/"
   ],
@@ -10,16 +20,6 @@
     "test": "vitest",
     "build": "unbuild"
   },
-  "exports": {
-    ".": {
-      "import": "./dist/esm/index.js",
-      "require": "./dist/cjs/index.js",
-      "types": "./dist/esm/index.d.ts"
-    }
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
   "devDependencies": {
     "@antfu/eslint-config": "^2.23.0",
     "eslint": "^9.7.0",

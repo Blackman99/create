@@ -1,32 +1,32 @@
 {
   "name": "@blackz/create",
+  "type": "module",
   "version": "0.0.16",
   "description": "A template to quick start projects",
-  "type": "module",
+  "author": "Dongsheng Zhao",
+  "license": "MIT",
+  "keywords": [
+    "pnpm template"
+  ],
   "bin": "index.mjs",
   "files": [
-    "templates/",
-    "dist/"
+    "dist/",
+    "templates/"
   ],
   "scripts": {
     "test": "vitest",
     "release": "changeset publish",
     "build": "unbuild"
   },
-  "keywords": [
-    "pnpm template"
-  ],
-  "author": "Dongsheng Zhao",
-  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "zx": "^8.1.4"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^2.23.0",
     "@changesets/changelog-github": "^0.5.0",
     "@changesets/cli": "^2.27.7",
     "@types/node": "^20.14.11",
     "eslint": "^9.7.0"
-  },
-  "dependencies": {
-    "prompts": "^2.4.2",
-    "zx": "^8.1.4"
   }
 }

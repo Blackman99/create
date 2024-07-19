@@ -1,5 +1,9 @@
 import { cpSync, readFileSync, writeFileSync } from 'node:fs'
+import { resolve } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import prompts from 'prompts'
+
+const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
 const questions = [
   {
@@ -16,7 +20,7 @@ const questions = [
 
 const { name, description } = await prompts(questions)
 
-const packageInfo = JSON.parse(readFileSync('./templates/package.json', 'utf-8'))
+const packageInfo = JSON.parse(readFileSync(resolve(__dirname, './templates/package.json'), 'utf-8'))
 
 packageInfo.name = name
 packageInfo.description = description
@@ -25,4 +29,4 @@ cpSync('./templates', name, {
   recursive: true,
 })
 
-writeFileSync(`./${name}/package.json`, JSON.stringify(packageInfo, null, 2))
+writeFileSync(`./${name}/package.json`, `${JSON.stringify(packageInfo, null, 2)}\n`)
