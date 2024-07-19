@@ -1,5 +1,103 @@
 # @blackz/create
 
+## 0.0.16
+
+### Patch Changes
+
+- [`9a95b90`](https://github.com/Blackman99/create/commit/9a95b903be6b52855b7c36242726c437ca5622a1) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`48730a0`](https://github.com/Blackman99/create/commit/48730a0616321866b79f26f7207041d06b421750) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`a87ea91`](https://github.com/Blackman99/create/commit/a87ea91f3f59df7f2b43a344bd2f580cfd7adfc6) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`388d073`](https://github.com/Blackman99/create/commit/388d07363eb1a3d056903d52290cae11b4381ad4) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`e088134`](https://github.com/Blackman99/create/commit/e0881346e6f23a22683a4b1b58b5daaa828911ac) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`0f99419`](https://github.com/Blackman99/create/commit/0f99419864672f5c7ddbcdc0f0ae1b6f22d459a7) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`e7bdade`](https://github.com/Blackman99/create/commit/e7bdadedc4c0979f1250b10631161897e366bf1e) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`44da297`](https://github.com/Blackman99/create/commit/44da297c33c50dd6f0cd3115d33fdb81e50595b5) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`01b5bea`](https://github.com/Blackman99/create/commit/01b5bea8eec4b2f5beb8c059527dfbf4890e2160) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`0fadfac`](https://github.com/Blackman99/create/commit/0fadfac6feda969a41b3cf19ec190b3f5fbb1656) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`eea8b53`](https://github.com/Blackman99/create/commit/eea8b535e8547e6f983a06d15c70522d8c4a9c91) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`fa2d162`](https://github.com/Blackman99/create/commit/fa2d1624880fb154011befcbeaba5819f95cef2e) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`98ea6e5`](https://github.com/Blackman99/create/commit/98ea6e5d426e8b579d95c6e9f285f002fc68566a) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`bfbe846`](https://github.com/Blackman99/create/commit/bfbe846ae946b7ecaa85902bdc4dff9d3f0aa4aa) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`0d5782c`](https://github.com/Blackman99/create/commit/0d5782c09988f6a55eb4a7734731c6163bb2d178) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`6bbb7b5`](https://github.com/Blackman99/create/commit/6bbb7b5a9a5289d886ec01110664b719f8b0db56) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`dbb8d3a`](https://github.com/Blackman99/create/commit/dbb8d3a85dcc3978c34a0c5b29d472b3a6a48123) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`83474c3`](https://github.com/Blackman99/create/commit/83474c3b30f8e2b7ea6f6f311034ea4facfc9f14) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`b1eb0c9`](https://github.com/Blackman99/create/commit/b1eb0c9a5daf11f8715da4025f6cf10201efe039) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`12119a6`](https://github.com/Blackman99/create/commit/12119a676e4487a2bdb4d79807787344949cb86e) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`34aaff5`](https://github.com/Blackman99/create/commit/34aaff5f175ab049b1785ced9d9b80b7fb37d2c3) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`cb321b8`](https://github.com/Blackman99/create/commit/cb321b85e6e6e63209137ab4d40d1f57722eb9e1) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`021f426`](https://github.com/Blackman99/create/commit/021f426fbd15e22e4395cd76b5c82a05083fc60f) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`4d73e63`](https://github.com/Blackman99/create/commit/4d73e635e58078e87211e15f58a7789ef16effa1) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`e73cee2`](https://github.com/Blackman99/create/commit/e73cee2aaa4181cdf336de732a06291494d97556) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`cb8c552`](https://github.com/Blackman99/create/commit/cb8c552c8ce53b191235e2f36ec7947bec346fb6) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`c8fcd8d`](https://github.com/Blackman99/create/commit/c8fcd8d7fa0ff1c6df634a85bb7ce677c0f10a2d) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`87ef1d5`](https://github.com/Blackman99/create/commit/87ef1d57cd6709f39941f2fba3d9ebab7186930a) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`f911f07`](https://github.com/Blackman99/create/commit/f911f0710ea9f3f2b681b3712a7f53f78f77bc34) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`cb40b59`](https://github.com/Blackman99/create/commit/cb40b59fe2a0979d9d9c477cf6fef8038f0dc8fd) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`cbbd2a1`](https://github.com/Blackman99/create/commit/cbbd2a1bf44833166de8b8fecd098687dc23d219) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`975e19e`](https://github.com/Blackman99/create/commit/975e19e21c066914733aa4342ba2e586d241bae9) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`650ce92`](https://github.com/Blackman99/create/commit/650ce926960f067dcd017b3b4187092dd0764e1a) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`2187ceb`](https://github.com/Blackman99/create/commit/2187cebc6b0bcabad632bb0a053c8b9d3f9ddade) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`29181cf`](https://github.com/Blackman99/create/commit/29181cf4d6ba50f00fea58757019c522c9b02334) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`035d4c0`](https://github.com/Blackman99/create/commit/035d4c0ebb8ba804ea0988b45afa7bee6210c194) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`af1c06e`](https://github.com/Blackman99/create/commit/af1c06ea1c6600a10918250eaf61a61d99461d8c) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`04462dc`](https://github.com/Blackman99/create/commit/04462dce0c4c9e87b2bf1628fa4b119c6daab4e6) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`4c3af8e`](https://github.com/Blackman99/create/commit/4c3af8ef54da8874afcd559f2dd7a7c60060bb59) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`1ec62a2`](https://github.com/Blackman99/create/commit/1ec62a2e272372fa677379c7edc48ccd3a2342c3) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`b710d25`](https://github.com/Blackman99/create/commit/b710d25819638deb2aaccf6aac1c4a74e23d563a) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`25fd2c9`](https://github.com/Blackman99/create/commit/25fd2c9b454502321b4cfba17ce6788ddd7976c8) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`a6bacf7`](https://github.com/Blackman99/create/commit/a6bacf7773558acceefaae46ba97906f080c73b5) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`43a7788`](https://github.com/Blackman99/create/commit/43a778887a587b4d8a61ea83dd45cdbced2a5857) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`3a9b21c`](https://github.com/Blackman99/create/commit/3a9b21c6c0366343a0009e993f9b1f78abc88226) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`35009f7`](https://github.com/Blackman99/create/commit/35009f70b1d202d108e1a5f09599564885b57cc5) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`3ed27f5`](https://github.com/Blackman99/create/commit/3ed27f5a9ce8c0f5c085c3258fd0ed82db42b04e) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
 ## 0.0.15
 
 ### Patch Changes
