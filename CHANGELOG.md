@@ -1,5 +1,17 @@
 # @blackz/create
 
+## 0.1.0
+
+### Minor Changes
+
+- [`1c0a676`](https://github.com/Blackman99/create/commit/1c0a676f25b6fefe163ccf67e24fba56d62d09c3) - fix: templates path not found
+
+### Patch Changes
+
+- [`f0ad09a`](https://github.com/Blackman99/create/commit/f0ad09ab1d478cfe58179a9e1e5624e40836cd41) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`d9dfe2f`](https://github.com/Blackman99/create/commit/d9dfe2f914e4479d4261b0eba4c34d4124e7d4d7) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
 ## 0.0.16
 
 ### Patch Changes
