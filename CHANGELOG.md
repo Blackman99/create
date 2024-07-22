@@ -1,5 +1,11 @@
 # @blackz/create
 
+## 0.1.1
+
+### Patch Changes
+
+- [`356bae0`](https://github.com/Blackman99/create/commit/356bae0b50bfe1fca71e2440c125d08beb2755f5) - fix: templates directory not found
+
 ## 0.1.0
 
 ### Minor Changes
