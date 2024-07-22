@@ -25,7 +25,7 @@ const packageInfo = JSON.parse(readFileSync(resolve(__dirname, './templates/pack
 packageInfo.name = name
 packageInfo.description = description
 
-cpSync('./templates', name, {
+cpSync(resolve(__dirname, './templates'), name, {
   recursive: true,
 })
 
