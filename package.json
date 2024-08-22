@@ -23,10 +23,10 @@
     "zx": "^8.1.4"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.26.0",
+    "@antfu/eslint-config": "^2.27.0",
     "@changesets/changelog-github": "^0.5.0",
     "@changesets/cli": "^2.27.7",
-    "@types/node": "^22.4.1",
+    "@types/node": "^22.5.0",
     "eslint": "^9.9.0"
   }
 }
