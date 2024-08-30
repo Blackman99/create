@@ -21,7 +21,7 @@
     "build": "unbuild"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.27.3",
+    "@antfu/eslint-config": "^3.0.0",
     "eslint": "^9.9.1",
     "typescript": "^5.5.4",
     "unbuild": "^2.0.0",
