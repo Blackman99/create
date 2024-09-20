@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "prompts": "^2.4.2",
-    "zx": "^8.1.7"
+    "zx": "^8.1.8"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.6.2",
