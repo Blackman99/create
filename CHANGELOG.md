@@ -1,5 +1,11 @@
 # @blackz/create
 
+## 0.1.7
+
+### Patch Changes
+
+- [`ce32b98`](https://github.com/Blackman99/create/commit/ce32b989cc71343248286e1f5efc007aa701d344) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
 ## 0.1.6
 
 ### Patch Changes
