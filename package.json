@@ -1,7 +1,7 @@
 {
   "name": "@blackz/create",
   "type": "module",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A template to quick start projects",
   "author": "Dongsheng Zhao",
   "license": "MIT",
