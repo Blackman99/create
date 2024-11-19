@@ -1,6 +1,8 @@
 ## Introduction
 
-My template to quick start projects based on these packages:
+A template to help saving time when creating new javascript projects. 
+
+## Basic dependencies
 
 * [Vitest](https://vitest.dev/)
 * [Typescript](https://typescriptlang.org)
@@ -9,7 +11,7 @@ My template to quick start projects based on these packages:
 * [Unbuild](https://github.com/unjs/unbuild)
 
 > [!NOTE]
-> All the packages would be auto updated to the latest version  
+> All these packages would be auto updated to the latest version  
 > It is better to always use the latest LTS Node version
 
 ## Usage
