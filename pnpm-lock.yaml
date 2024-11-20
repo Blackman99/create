@@ -15,7 +15,7 @@ dependencies:
 devDependencies:
   '@antfu/eslint-config':
     specifier: ^3.9.2
-    version: 3.9.2(@typescript-eslint/utils@8.14.0)(@vue/compiler-sfc@3.4.33)(eslint@9.15.0)(typescript@5.5.3)
+    version: 3.9.2(@typescript-eslint/utils@8.15.0)(@vue/compiler-sfc@3.4.33)(eslint@9.15.0)(typescript@5.5.3)
   '@changesets/changelog-github':
     specifier: ^0.5.0
     version: 0.5.0
@@ -23,15 +23,15 @@ devDependencies:
     specifier: ^2.27.9
     version: 2.27.9
   '@types/node':
-    specifier: ^22.9.0
-    version: 22.9.0
+    specifier: ^22.9.1
+    version: 22.9.1
   eslint:
     specifier: ^9.15.0
     version: 9.15.0
 
 packages:
 
-  /@antfu/eslint-config@3.9.2(@typescript-eslint/utils@8.14.0)(@vue/compiler-sfc@3.4.33)(eslint@9.15.0)(typescript@5.5.3):
+  /@antfu/eslint-config@3.9.2(@typescript-eslint/utils@8.15.0)(@vue/compiler-sfc@3.4.33)(eslint@9.15.0)(typescript@5.5.3):
     resolution: {integrity: sha512-a1I1CXmtQdTL9jxcb2RzKjuYYAzjdKK3ktVpQGd/1S/aUdhKgcEEi3DRXYgnB8xdpYLqracETxEMDf9PQlmyBg==}
     hasBin: true
     peerDependencies:
@@ -84,7 +84,7 @@ packages:
       '@stylistic/eslint-plugin': 2.10.1(eslint@9.15.0)(typescript@5.5.3)
       '@typescript-eslint/eslint-plugin': 8.15.0(@typescript-eslint/parser@8.15.0)(eslint@9.15.0)(typescript@5.5.3)
       '@typescript-eslint/parser': 8.15.0(eslint@9.15.0)(typescript@5.5.3)
-      '@vitest/eslint-plugin': 1.1.10(@typescript-eslint/utils@8.14.0)(eslint@9.15.0)(typescript@5.5.3)
+      '@vitest/eslint-plugin': 1.1.10(@typescript-eslint/utils@8.15.0)(eslint@9.15.0)(typescript@5.5.3)
       eslint: 9.15.0
       eslint-config-flat-gitignore: 0.3.0(eslint@9.15.0)
       eslint-flat-config-utils: 0.4.0
@@ -622,7 +622,7 @@ packages:
     requiresBuild: true
     dependencies:
       '@types/jsonfile': 6.1.4
-      '@types/node': 22.9.0
+      '@types/node': 22.9.1
     dev: false
     optional: true
 
@@ -634,7 +634,7 @@ packages:
     resolution: {integrity: sha512-D5qGUYwjvnNNextdU59/+fI+spnwtTFmyQP0h+PfIOSkNfpU6AOICUOkm4i0OnSk+NyjdPJrxCDro0sJsWlRpQ==}
     requiresBuild: true
     dependencies:
-      '@types/node': 22.9.0
+      '@types/node': 22.9.1
     dev: false
     optional: true
 
@@ -652,8 +652,8 @@ packages:
     resolution: {integrity: sha512-J8xLz7q2OFulZ2cyGTLE1TbbZcjpno7FaN6zdJNrgAdrJ+DZzh/uFR6YrTb4C+nXakvud8Q4+rbhoIWlYQbUFQ==}
     dev: true
 
-  /@types/node@22.9.0:
-    resolution: {integrity: sha512-vuyHg81vvWA1Z1ELfvLko2c8f34gyA0zaic0+Rllc5lbCnbSyuvb2Oxpm6TAUAC/2xZN3QGqxBNggD1nNR2AfQ==}
+  /@types/node@22.9.1:
+    resolution: {integrity: sha512-p8Yy/8sw1caA8CdRIQBG5tiLHmxtQKObCijiAa9Ez+d4+PRffM4054xbju0msf+cvhJpnFEeNjxmVT/0ipktrg==}
     dependencies:
       undici-types: 6.19.8
 
@@ -855,7 +855,7 @@ packages:
       eslint-visitor-keys: 4.2.0
     dev: true
 
-  /@vitest/eslint-plugin@1.1.10(@typescript-eslint/utils@8.14.0)(eslint@9.15.0)(typescript@5.5.3):
+  /@vitest/eslint-plugin@1.1.10(@typescript-eslint/utils@8.15.0)(eslint@9.15.0)(typescript@5.5.3):
     resolution: {integrity: sha512-uScH5Kz5v32vvtQYB2iodpoPg2mGASK+VKpjlc2IUgE0+16uZKqVKi2vQxjxJ6sMCQLBs4xhBFZlmZBszsmfKQ==}
     peerDependencies:
       '@typescript-eslint/utils': '>= 8.0'
@@ -868,7 +868,7 @@ packages:
       vitest:
         optional: true
     dependencies:
-      '@typescript-eslint/utils': 8.14.0(eslint@9.15.0)(typescript@5.5.3)
+      '@typescript-eslint/utils': 8.15.0(eslint@9.15.0)(typescript@5.5.3)
       eslint: 9.15.0
       typescript: 5.5.3
     dev: true
@@ -3402,5 +3402,5 @@ packages:
     hasBin: true
     optionalDependencies:
       '@types/fs-extra': 11.0.4
-      '@types/node': 22.9.0
+      '@types/node': 22.9.1
     dev: false
