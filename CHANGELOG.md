@@ -1,5 +1,19 @@
 # @blackz/create
 
+## 0.1.11
+
+### Patch Changes
+
+- [`52474b9`](https://github.com/Blackman99/create/commit/52474b9a6f996254fd0652b26894346e9d79624a) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`34c4f4c`](https://github.com/Blackman99/create/commit/34c4f4cbc8b41f2319bfb7c3781a8b3ffb2e3163) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`703e450`](https://github.com/Blackman99/create/commit/703e4507fb781fa05bee775b87455d3592d86aaf) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`c5f0fb2`](https://github.com/Blackman99/create/commit/c5f0fb2d78b60d1ce5fa60df0e9ddb041df02496) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
+- [`a9ea759`](https://github.com/Blackman99/create/commit/a9ea7596345e5f22e1028ef4d9cdba013c5dd487) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
 ## 0.1.10
 
 ### Patch Changes
