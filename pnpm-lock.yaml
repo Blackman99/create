@@ -23,8 +23,8 @@ devDependencies:
     specifier: ^2.27.11
     version: 2.27.11
   '@types/node':
-    specifier: ^22.10.6
-    version: 22.10.6
+    specifier: ^22.10.7
+    version: 22.10.7
   eslint:
     specifier: ^9.18.0
     version: 9.18.0
@@ -643,7 +643,7 @@ packages:
     requiresBuild: true
     dependencies:
       '@types/jsonfile': 6.1.4
-      '@types/node': 22.10.6
+      '@types/node': 22.10.7
     dev: false
     optional: true
 
@@ -655,7 +655,7 @@ packages:
     resolution: {integrity: sha512-D5qGUYwjvnNNextdU59/+fI+spnwtTFmyQP0h+PfIOSkNfpU6AOICUOkm4i0OnSk+NyjdPJrxCDro0sJsWlRpQ==}
     requiresBuild: true
     dependencies:
-      '@types/node': 22.10.6
+      '@types/node': 22.10.7
     dev: false
     optional: true
 
@@ -673,8 +673,8 @@ packages:
     resolution: {integrity: sha512-J8xLz7q2OFulZ2cyGTLE1TbbZcjpno7FaN6zdJNrgAdrJ+DZzh/uFR6YrTb4C+nXakvud8Q4+rbhoIWlYQbUFQ==}
     dev: true
 
-  /@types/node@22.10.6:
-    resolution: {integrity: sha512-qNiuwC4ZDAUNcY47xgaSuS92cjf8JbSUoaKS77bmLG1rU7MlATVSiw/IlrjtIyyskXBZ8KkNfjK/P5na7rgXbQ==}
+  /@types/node@22.10.7:
+    resolution: {integrity: sha512-V09KvXxFiutGp6B7XkpaDXlNadZxrzajcY50EuoLIpQ6WWYCSvf19lVIazzfIzQvhUN2HjX12spLojTnhuKlGg==}
     dependencies:
       undici-types: 6.20.0
 
@@ -3301,5 +3301,5 @@ packages:
     hasBin: true
     optionalDependencies:
       '@types/fs-extra': 11.0.4
-      '@types/node': 22.10.6
+      '@types/node': 22.10.7
     dev: false
