@@ -21,11 +21,11 @@
     "build": "unbuild"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^3.14.0",
+    "@antfu/eslint-config": "^3.15.0",
     "eslint": "^9.18.0",
     "typescript": "^5.7.3",
     "unbuild": "^3.3.1",
-    "vite": "^6.0.10",
-    "vitest": "^3.0.2"
+    "vite": "^6.0.11",
+    "vitest": "^3.0.3"
   }
 }
