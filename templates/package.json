@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^5.2.1",
-    "eslint": "^9.33.0",
+    "eslint": "^9.34.0",
     "typescript": "^5.9.2",
     "unbuild": "^3.6.1",
     "vite": "^7.1.3",
