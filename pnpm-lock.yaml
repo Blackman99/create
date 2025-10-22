@@ -21,10 +21,10 @@ devDependencies:
     version: 0.5.1
   '@changesets/cli':
     specifier: ^2.29.7
-    version: 2.29.7(@types/node@24.8.1)
+    version: 2.29.7(@types/node@24.9.1)
   '@types/node':
-    specifier: ^24.8.1
-    version: 24.8.1
+    specifier: ^24.9.1
+    version: 24.9.1
   eslint:
     specifier: ^9.38.0
     version: 9.38.0
@@ -217,7 +217,7 @@ packages:
       - encoding
     dev: true
 
-  /@changesets/cli@2.29.7(@types/node@24.8.1):
+  /@changesets/cli@2.29.7(@types/node@24.9.1):
     resolution: {integrity: sha512-R7RqWoaksyyKXbKXBTbT4REdy22yH81mcFK6sWtqSanxUCbUi9Uf+6aqxZtDQouIqPdem2W56CdxXgsxdq7FLQ==}
     hasBin: true
     dependencies:
@@ -235,7 +235,7 @@ packages:
       '@changesets/should-skip-package': 0.1.2
       '@changesets/types': 6.1.0
       '@changesets/write': 0.4.0
-      '@inquirer/external-editor': 1.0.1(@types/node@24.8.1)
+      '@inquirer/external-editor': 1.0.1(@types/node@24.9.1)
       '@manypkg/get-packages': 1.1.3
       ansi-colors: 4.1.3
       ci-info: 3.9.0
@@ -567,7 +567,7 @@ packages:
     engines: {node: '>=18.18'}
     dev: true
 
-  /@inquirer/external-editor@1.0.1(@types/node@24.8.1):
+  /@inquirer/external-editor@1.0.1(@types/node@24.9.1):
     resolution: {integrity: sha512-Oau4yL24d2B5IL4ma4UpbQigkVhzPDXLoqy1ggK4gnHg/stmkffJE4oOXHXF3uz0UEpywG68KcyXsyYpA1Re/Q==}
     engines: {node: '>=18'}
     peerDependencies:
@@ -576,7 +576,7 @@ packages:
       '@types/node':
         optional: true
     dependencies:
-      '@types/node': 24.8.1
+      '@types/node': 24.9.1
       chardet: 2.1.0
       iconv-lite: 0.6.3
     dev: true
@@ -669,10 +669,10 @@ packages:
     resolution: {integrity: sha512-J8xLz7q2OFulZ2cyGTLE1TbbZcjpno7FaN6zdJNrgAdrJ+DZzh/uFR6YrTb4C+nXakvud8Q4+rbhoIWlYQbUFQ==}
     dev: true
 
-  /@types/node@24.8.1:
-    resolution: {integrity: sha512-alv65KGRadQVfVcG69MuB4IzdYVpRwMG/mq8KWOaoOdyY617P5ivaDiMCGOFDWD2sAn5Q0mR3mRtUOgm99hL9Q==}
+  /@types/node@24.9.1:
+    resolution: {integrity: sha512-QoiaXANRkSXK6p0Duvt56W208du4P9Uye9hWLWgGMDTEoKPhuenzNcC4vGUmrNkiOKTlIrBoyNQYNpSwfEZXSg==}
     dependencies:
-      undici-types: 7.14.0
+      undici-types: 7.16.0
     dev: true
 
   /@types/unist@3.0.3:
@@ -3103,8 +3103,8 @@ packages:
     resolution: {integrity: sha512-UsUk3byDzKd04EyoZ7U4DOlxQaD14JUKQl6/P7wiX4FNvUfm3XL246n9W5AmqwW5RSFJ27NAuM0iLscAOYUiGQ==}
     dev: true
 
-  /undici-types@7.14.0:
-    resolution: {integrity: sha512-QQiYxHuyZ9gQUIrmPo3IA+hUl4KYk8uSA7cHrcKd/l3p1OTpZcM0Tbp9x7FAtXdAYhlasd60ncPpgu6ihG6TOA==}
+  /undici-types@7.16.0:
+    resolution: {integrity: sha512-Zz+aZWSj8LE6zoxD+xrjh4VfkIG8Ya6LvYkZqtUQGJPZjYl53ypCaUwWqo7eI0x66KBGeRo+mlBEkMSeSZ38Nw==}
     dev: true
 
   /unist-util-is@6.0.0:
