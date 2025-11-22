@@ -1,5 +1,11 @@
 # @blackz/create
 
+## 0.1.15
+
+### Patch Changes
+
+- [`445bb4f`](https://github.com/Blackman99/create/commit/445bb4f04c360911333bc7b48d5ea7233ad7514d) Thanks [@Blackman99](https://github.com/Blackman99)! - chore: update deps
+
 ## 0.1.14
 
 ### Patch Changes
