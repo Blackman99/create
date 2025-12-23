@@ -23,7 +23,7 @@
     "zx": "^8.8.5"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^6.7.2",
+    "@antfu/eslint-config": "^6.7.3",
     "@changesets/changelog-github": "^0.5.2",
     "@changesets/cli": "^2.29.8",
     "@types/node": "^25.0.3",
