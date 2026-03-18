@@ -14,8 +14,8 @@ dependencies:
 
 devDependencies:
   '@antfu/eslint-config':
-    specifier: ^7.7.2
-    version: 7.7.2(@typescript-eslint/rule-tester@8.56.1)(@typescript-eslint/typescript-estree@8.56.1)(@typescript-eslint/utils@8.56.1)(@vue/compiler-sfc@3.4.33)(eslint@10.0.3)(typescript@5.5.3)
+    specifier: ^7.7.3
+    version: 7.7.3(@typescript-eslint/rule-tester@8.56.1)(@typescript-eslint/typescript-estree@8.57.0)(@typescript-eslint/utils@8.57.0)(@vue/compiler-sfc@3.4.33)(eslint@10.0.3)(typescript@5.5.3)
   '@changesets/changelog-github':
     specifier: ^0.6.0
     version: 0.6.0
@@ -31,8 +31,8 @@ devDependencies:
 
 packages:
 
-  /@antfu/eslint-config@7.7.2(@typescript-eslint/rule-tester@8.56.1)(@typescript-eslint/typescript-estree@8.56.1)(@typescript-eslint/utils@8.56.1)(@vue/compiler-sfc@3.4.33)(eslint@10.0.3)(typescript@5.5.3):
-    resolution: {integrity: sha512-CGCcwASry9hk8cOYl82sfTsqmma4DyDfmQSaOJ9p8OtJlVMouDV0MCueDZzUu7iHl+DraSSN6J6sXSkzG6LzcQ==}
+  /@antfu/eslint-config@7.7.3(@typescript-eslint/rule-tester@8.56.1)(@typescript-eslint/typescript-estree@8.57.0)(@typescript-eslint/utils@8.57.0)(@vue/compiler-sfc@3.4.33)(eslint@10.0.3)(typescript@5.5.3):
+    resolution: {integrity: sha512-BtroDxTvmWtvr3yJkdWVCvwsKlnEdkreoeOyrdNezc/W5qaiQNf2xjcsQ3N5Yy0x27h+0WFfW8rG8YlVioG6dw==}
     hasBin: true
     peerDependencies:
       '@angular-eslint/eslint-plugin': ^21.1.0
@@ -111,7 +111,7 @@ packages:
       eslint-flat-config-utils: 3.0.2
       eslint-merge-processors: 2.0.0(eslint@10.0.3)
       eslint-plugin-antfu: 3.2.2(eslint@10.0.3)
-      eslint-plugin-command: 3.5.2(@typescript-eslint/rule-tester@8.56.1)(@typescript-eslint/typescript-estree@8.56.1)(@typescript-eslint/utils@8.56.1)(eslint@10.0.3)
+      eslint-plugin-command: 3.5.2(@typescript-eslint/rule-tester@8.56.1)(@typescript-eslint/typescript-estree@8.57.0)(@typescript-eslint/utils@8.57.0)(eslint@10.0.3)
       eslint-plugin-import-lite: 0.5.2(eslint@10.0.3)
       eslint-plugin-jsdoc: 62.7.1(eslint@10.0.3)
       eslint-plugin-jsonc: 3.1.1(eslint@10.0.3)
@@ -417,7 +417,7 @@ packages:
     engines: {node: ^20.19.0 || ^22.13.0 || >=24}
     dependencies:
       '@types/estree': 1.0.8
-      '@typescript-eslint/types': 8.56.1
+      '@typescript-eslint/types': 8.57.0
       comment-parser: 1.4.5
       esquery: 1.7.0
       jsdoc-type-pratt-parser: 7.1.1
@@ -653,7 +653,7 @@ packages:
       eslint: ^9.0.0 || ^10.0.0
     dependencies:
       '@eslint-community/eslint-utils': 4.9.1(eslint@10.0.3)
-      '@typescript-eslint/types': 8.56.1
+      '@typescript-eslint/types': 8.57.0
       eslint: 10.0.3
       eslint-visitor-keys: 4.2.1
       espree: 10.4.0
@@ -768,8 +768,8 @@ packages:
     peerDependencies:
       typescript: '>=4.8.4 <6.0.0'
     dependencies:
-      '@typescript-eslint/tsconfig-utils': 8.56.1(typescript@5.5.3)
-      '@typescript-eslint/types': 8.56.1
+      '@typescript-eslint/tsconfig-utils': 8.57.0(typescript@5.5.3)
+      '@typescript-eslint/types': 8.57.0
       debug: 4.4.3
       typescript: 5.5.3
     transitivePeerDependencies:
@@ -974,8 +974,8 @@ packages:
       vitest:
         optional: true
     dependencies:
-      '@typescript-eslint/scope-manager': 8.56.1
-      '@typescript-eslint/utils': 8.56.1(eslint@10.0.3)(typescript@5.5.3)
+      '@typescript-eslint/scope-manager': 8.57.0
+      '@typescript-eslint/utils': 8.57.0(eslint@10.0.3)(typescript@5.5.3)
       eslint: 10.0.3
       typescript: 5.5.3
     transitivePeerDependencies:
@@ -1372,7 +1372,7 @@ packages:
       eslint: 10.0.3
     dev: true
 
-  /eslint-plugin-command@3.5.2(@typescript-eslint/rule-tester@8.56.1)(@typescript-eslint/typescript-estree@8.56.1)(@typescript-eslint/utils@8.56.1)(eslint@10.0.3):
+  /eslint-plugin-command@3.5.2(@typescript-eslint/rule-tester@8.56.1)(@typescript-eslint/typescript-estree@8.57.0)(@typescript-eslint/utils@8.57.0)(eslint@10.0.3):
     resolution: {integrity: sha512-PA59QAkQDwvcCMEt5lYLJLI3zDGVKJeC4id/pcRY2XdRYhSGW7iyYT1VC1N3bmpuvu6Qb/9QptiS3GJMjeGTJg==}
     peerDependencies:
       '@typescript-eslint/rule-tester': '*'
@@ -1382,8 +1382,8 @@ packages:
     dependencies:
       '@es-joy/jsdoccomment': 0.84.0
       '@typescript-eslint/rule-tester': 8.56.1(eslint@10.0.3)(typescript@5.5.3)
-      '@typescript-eslint/typescript-estree': 8.56.1(typescript@5.5.3)
-      '@typescript-eslint/utils': 8.56.1(eslint@10.0.3)(typescript@5.5.3)
+      '@typescript-eslint/typescript-estree': 8.57.0(typescript@5.5.3)
+      '@typescript-eslint/utils': 8.57.0(eslint@10.0.3)(typescript@5.5.3)
       eslint: 10.0.3
     dev: true
 
@@ -1495,7 +1495,7 @@ packages:
     peerDependencies:
       eslint: ^8.45.0 || ^9.0.0 || ^10.0.0
     dependencies:
-      '@typescript-eslint/utils': 8.56.1(eslint@10.0.3)(typescript@5.5.3)
+      '@typescript-eslint/utils': 8.57.0(eslint@10.0.3)(typescript@5.5.3)
       eslint: 10.0.3
       natural-orderby: 5.0.0
     transitivePeerDependencies:
